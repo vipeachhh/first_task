@@ -44,5 +44,5 @@ function remove(index) {
   }
 }
 
-let user3 = remove(1);
+let user4 = remove(1);
 console.log(data);
